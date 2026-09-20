@@ -166,25 +166,18 @@ export default function Home() {
             <p className="text-sm uppercase tracking-[0.35em] text-cyan-200/80">
               Contact
             </p>
-            <h2 className="mt-4 text-3xl font-semibold text-white">
-              Ready to make your business look established and legitimate.
-            </h2>
-            <p className="mt-4 max-w-2xl text-base leading-8 text-slate-300">
-              Add your phone, email, and service details here so visitors can
-              quickly understand who you are and how to reach you.
-            </p>
             <div className="mt-8 flex flex-wrap gap-4 text-sm">
               <a
-                href="mailto:hello@jwrevtech.com"
+                href="mailto:jameswehman@gmail.com"
                 className="rounded-full bg-cyan-400 px-6 py-3 font-semibold text-slate-950 transition hover:bg-cyan-300"
               >
-                hello@jwrevtech.com
+                jameswehman@gmail.com
               </a>
               <a
-                href="tel:+10000000000"
+                href="tel:+13057886909"
                 className="rounded-full border border-white/15 bg-white/5 px-6 py-3 font-semibold text-white transition hover:bg-white/10"
               >
-                (000) 000-0000
+                (305) 788-6909
               </a>
             </div>
           </div>
